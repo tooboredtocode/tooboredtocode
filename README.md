@@ -2,7 +2,7 @@
 
 **I'm bored!**
 
-You can read more about me on my [website](https://tooboredtocode.dev), say hi on my [discord](https://discord.albedo.me), or contact me via email.
+You can read more about me on my [website](https://tooboredtocode.dev) or say hi on my [discord](https://albedo.me/discord).
 
 [![wakatime](https://wakatime.com/badge/user/54268028-db08-4078-badf-f93a587bd8c9.svg)](https://wakatime.com/@54268028-db08-4078-badf-f93a587bd8c9)
 
