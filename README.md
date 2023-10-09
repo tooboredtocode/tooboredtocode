@@ -11,7 +11,7 @@
 
 <br>
 
-**I'm bored**, you can read more about me on my [website](https://tooboredtocode.dev) or say hi on my [discord](https://albedo.me/discord).
+**I'm bored**, you can read more about me on my [website](https://tooboredtocode.dev).
 
 ---
 
