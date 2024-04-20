@@ -1,5 +1,15 @@
 ## Hello there 👋
 
+<div align="center">
+  <a href="https://discord.com/users/244459328847872000">
+    <img src="https://img.shields.io/static/v1?label=Discord&message=albedo%239999&style=for-the-badge&color=5865f2" />
+  </a>
+  <a href="https://wakatime.com/@54268028-db08-4078-badf-f93a587bd8c9">
+    <img src="https://wakatime.com/badge/user/54268028-db08-4078-badf-f93a587bd8c9.svg?style=for-the-badge" />
+  </a>
+</div>
+<br/>
+
 Hi **I'm bored**.
 I'm a developer most proficient with Rust and Python.
 
